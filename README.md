@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hi there 👋, I'm Madina! </h1>
 
-<h4 align="center">A back-end developer from Astana</h4>
+<h4 align="center">A back-end developer from Astana ✨</h4>
 
 <p>Welcome to my pet projects hub! 🔭 I’m currently working on projects in back-end development.</p>
 <p>Feel free to connect with me at <a href="mailto:dairova.m05@gmail.com">dairova.m05@gmail.com</a></p>
